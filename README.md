@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetask&layout=compact&hide=html" alt="ahmetask" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetask&show_icons=true" alt="ahmetask" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetask&show_icons=true&hide_rank=true" alt="ahmetask" />
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmetasik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmetasik" height="30" width="30" /></a>
