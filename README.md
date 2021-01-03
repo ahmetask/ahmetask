@@ -17,6 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmetask&show_icons=true&hide_rank=true" alt="ahmetask" />
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmetasik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmetasik" height="30" width="30" /></a>
-<a href="https://medium.com/@ahmet9417" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ahmet9417" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ahmetasik" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmetasik" /></a>
+<a href="https://medium.com/@ahmet9417" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@ahmet9417" /></a>
 </p>
